@@ -15,10 +15,6 @@ function start() {
 
     video.src = './videos/speech.mp4'
 
-    // navigator.getUserMedia(
-    //     {video:{}},
-    //     stream => video.srcObject = stream,
-    //     err => console.error(err))
     recognizeFaces()
 }
 
