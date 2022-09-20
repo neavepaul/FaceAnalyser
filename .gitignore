@@ -1,6 +1,5 @@
 public/labeled_images
 public/videos
-public/faceData.json
 node_modules
 package-lock.json
 package.json
