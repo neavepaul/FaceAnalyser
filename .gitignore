@@ -1,4 +1,8 @@
-public
+public/js
+public/labeled_images
+public/models
+public/videos
+public/faceData.json
 node_modules
 package-lock.json
 package.json
