@@ -1,5 +1,4 @@
 public/labeled_images
-public/videos
 node_modules
 package-lock.json
 package.json
